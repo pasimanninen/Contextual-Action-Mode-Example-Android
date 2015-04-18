@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contextual Action Mode Example</string>
+    <string name="action_long_press">Long press here!</string>
+    <string name="action_call">Call</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_email">Email</string>
+
+</resources>
